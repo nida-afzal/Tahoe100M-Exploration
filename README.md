@@ -1,6 +1,3 @@
-# Tahoe100M-Exploration
-Exploratory Data Analysis and modeling using the Tahoe-100M dataset
-
 # Tahoe-100M Dataset Exploration
 
 This repository contains my initial exploration and analysis of the Tahoe-100M dataset.  
