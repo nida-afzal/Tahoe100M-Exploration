@@ -10,4 +10,4 @@ As a Master's student in Bioengineering with a background in Data Science, I'm i
 
 ## Tools
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
+- Google Colab
